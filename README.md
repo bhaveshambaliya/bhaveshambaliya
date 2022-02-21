@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Ambaliya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a dedicated Full-stack developer with having 8+ years of experience and I can fulfill your all requirements with great success. I do have worked on various projects.</h3>
 
 - 🌱 I’m currently learning **React Js, NextJs, Tailwind**
 
