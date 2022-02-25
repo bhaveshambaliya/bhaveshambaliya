@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.leadinfosoft.com/](https://www.leadinfosoft.com/)
 
-- 💬 Ask me about **react , node , angular, VueJS**
+- 💬 Ask me about **React JS , Node JS , Angular JS, VueJS**
 
 - 📫 How to reach me **bhaveshambaliya05@gmail.com**
 
